@@ -58,3 +58,14 @@ Check back regularly for updates on upcoming concerts, workshops, and educationa
 ## License
 
 All materials in this repository are copyrighted by Dr. Willis Glen "Chip" Miller, III, unless otherwise stated. For usage permissions, please contact directly.
+## Key Questions
+1. 
+2. How many visitors has the website received this month?
+3. What is the most popular performance video on the site?
+4. How many new students have enrolled through the website?
+5. What is the average time visitors spend on the site?
+6. How many music resources have been downloaded?
+7. What is the conversion rate for visitors booking lessons?
+8. How many collaborations or performances have been booked through the site?
+9. What is the most frequently asked question in the FAQ section?
+10. How many newsletter subscribers have been gained this quarter?
